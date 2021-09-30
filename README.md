@@ -41,5 +41,7 @@ Test Data is available in two files:
 - invalid.json file contains invalid test data
 
 Testing Procedure:
-Test using Terminal on valid data: curl -d "@valid.json" -H "Content-Type: application/json" -X POST https://pv2zdxw6uh.execute-api.us-east-1.amazonaws.com/Prod/
-Test from Terminal on invalid data: curl -d "@invalid.json" -H "Content-Type: application/json" -X POST https://pv2zdxw6uh.execute-api.us-east-1.amazonaws.com/Prod/
+Test using Terminal on valid data using following command:
+curl -d "@valid.json" -H "Content-Type: application/json" -X POST https://pv2zdxw6uh.execute-api.us-east-1.amazonaws.com/Prod/
+Test using Terminal on invalid data using following command:
+curl -d "@invalid.json" -H "Content-Type: application/json" -X POST https://pv2zdxw6uh.execute-api.us-east-1.amazonaws.com/Prod/
