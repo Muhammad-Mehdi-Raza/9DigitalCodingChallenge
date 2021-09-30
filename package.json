@@ -1,0 +1,14 @@
+{
+  "name": "codingchallenge",
+  "version": "1.0.0",
+  "description": "NineDigital Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Mehdi Raza",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.997.0"
+  }
+}
