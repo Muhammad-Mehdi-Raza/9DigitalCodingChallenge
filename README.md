@@ -33,9 +33,9 @@ Once you pass the tests you will receive an automated success email from us with
 
 Project Details:
 
-Language: Node.js
-Deployment: Amazon Web Services (AWS)
-Services Used: Amazon API Gateway, AWS Lambda, AWS Cloud Watch logs (for debugging purposes)
+- Language: Node.js
+- Deployment: Amazon Web Services (AWS)
+- Services Used: Amazon API Gateway, AWS Lambda, AWS Cloud Watch logs (for debugging purposes)
 
 Test Data:
 Test Data is available in two files:
